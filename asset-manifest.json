@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-data-viewer/static/css/main.11300a0a.css",
+    "main.js": "/weather-data-viewer/static/js/main.deac3f9f.js",
+    "static/js/453.7ff9b1a3.chunk.js": "/weather-data-viewer/static/js/453.7ff9b1a3.chunk.js",
+    "static/media/weather-bg.jpg": "/weather-data-viewer/static/media/weather-bg.39566d2d3ffcc31a2a6c.jpg",
+    "static/media/rain-img.png": "/weather-data-viewer/static/media/rain-img.7610299be6da6fba0d64.png",
+    "static/media/snowflake-img.png": "/weather-data-viewer/static/media/snowflake-img.3ef7baa804156913d942.png",
+    "static/media/wind-img.png": "/weather-data-viewer/static/media/wind-img.7f1612509b69995ab7b5.png",
+    "static/media/humidity-img.png": "/weather-data-viewer/static/media/humidity-img.78d10baf3a6b704fff14.png",
+    "static/media/sunny-drizzle-img.png": "/weather-data-viewer/static/media/sunny-drizzle-img.f009e441a604361a2783.png",
+    "static/media/sunny-img.png": "/weather-data-viewer/static/media/sunny-img.6d48da504f4816188c8d.png",
+    "static/media/cloud-img.png": "/weather-data-viewer/static/media/cloud-img.15eb556cd941ec7fc2b4.png",
+    "index.html": "/weather-data-viewer/index.html",
+    "main.11300a0a.css.map": "/weather-data-viewer/static/css/main.11300a0a.css.map",
+    "main.deac3f9f.js.map": "/weather-data-viewer/static/js/main.deac3f9f.js.map",
+    "453.7ff9b1a3.chunk.js.map": "/weather-data-viewer/static/js/453.7ff9b1a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11300a0a.css",
+    "static/js/main.deac3f9f.js"
+  ]
+}
